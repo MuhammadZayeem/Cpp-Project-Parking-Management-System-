@@ -1,0 +1,14 @@
+1 2 s bus s s s card 50 2 2 2025
+2 2 wd bus sw sw sw card 50 1 2 2025
+3 2 e bus bs bs bs card 50 1 2 2025
+4 2 w bus abd2390 hf sh card 50 1 2 2025
+5 2 zayeem bike abv702 ali ahmed cash 20 1 2 2025
+6 2 ali bus adv702 ahmed aleem cash 50 1 2 2025
+7 2 zayeem car abc123 ali ahmed card 30 3 2 2025
+9 2 ali truck avc135 ali ahmed cash 50 1 2 2025
+8 2 3 bus 1 2 3 cash 50 1 2 2025
+10 1 2 bus q w e card 50 1 2 2025
+11 1 2 car q q q card 30 1 2 2025
+12 2 Ahmed car abc123 ALI ahmed card 30 3 3 2025
+12 2 Ahmed car abc123 ALI ahmed card 30 3 3 2025
+13 2 horia truck avd234 ali ahmed cash 50 3 3 2025
